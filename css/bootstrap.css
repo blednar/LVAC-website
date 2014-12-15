@@ -5,6 +5,15 @@
  */
 
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
+
+/*! CUSTOM-ADDED FEATURES */
+#crest {
+  position: fixed;
+  top: 5px;
+  left: 5px;
+  z-index: 2000;
+}
+
 html {
   font-family: sans-serif;
   -webkit-text-size-adjust: 100%;
